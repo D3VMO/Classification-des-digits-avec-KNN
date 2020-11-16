@@ -1,1 +1,2 @@
 # Classification-des-digits-avec-KNN
+The required work is to use cross validation on the training set. This allows us to choose a model (the one with the best performance), which we will then train through the entire training set, and then test on the test set. It is this final performance that is the best approximation of the performance that the model will be able to achieve on new data. Keywords: cross-validation, Grid Search from the Scikit-Learn library
